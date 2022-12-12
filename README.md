@@ -1,3 +1,3 @@
 - 👋 Hi, I’m San
 - 👀 I’m interested in Debate
-- 🌱 I’m currently learning Lua and TypeScript (JS)
+- 🌱 I’m currently building a Model United Nations application for managing conferences easily
